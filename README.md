@@ -1,2 +1,2 @@
 # chineserestaurant.html
-nom nom nom
+Nom Nom Nom, it's Mr.Nom's
