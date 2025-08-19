@@ -1,2 +1,2 @@
-# chinese_resturant.html
+# chineserestaurant.html
 nom nom nom
